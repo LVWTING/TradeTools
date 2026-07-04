@@ -1,0 +1,12 @@
+{
+  "refresh_interval": 15,
+  "time_window": 10,
+  "top_n": 50,
+  "min_volume": 0.0,
+  "rise_threshold": 3.0,
+  "drop_threshold": -3.0,
+  "alert_enabled": true,
+  "chart_enabled": true,
+  "chart_period": "5m",
+  "chart_points": 170
+}
